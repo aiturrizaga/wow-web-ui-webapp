@@ -32,7 +32,9 @@
               }
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/app/styles/button.scss",
+              "src/app/styles/input.scss"
             ],
             "scripts": []
           },
